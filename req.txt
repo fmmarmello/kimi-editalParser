@@ -1,0 +1,11 @@
+polars
+fitz
+pdfplumber
+camelot-py[cv]
+pytesseract
+Pillow
+pymupdf
+matplotlib
+pandas
+numpy
+playwright
